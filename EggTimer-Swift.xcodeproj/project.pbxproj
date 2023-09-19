@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC98A3D12AC74E7000CA8CF4 /* EggTimer_alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = EC98A3D02AC74E7000CA8CF4 /* EggTimer_alarm_sound.mp3 */; };
 		ECBA788A2AB91E2D00E1BC06 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBA78892AB91E2D00E1BC06 /* AppDelegate.swift */; };
 		ECBA788C2AB91E2D00E1BC06 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBA788B2AB91E2D00E1BC06 /* SceneDelegate.swift */; };
 		ECBA788E2AB91E2D00E1BC06 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBA788D2AB91E2D00E1BC06 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC98A3D02AC74E7000CA8CF4 /* EggTimer_alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = EggTimer_alarm_sound.mp3; sourceTree = "<group>"; };
 		ECBA78862AB91E2D00E1BC06 /* EggTimer-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EggTimer-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECBA78892AB91E2D00E1BC06 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ECBA788B2AB91E2D00E1BC06 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				ECBA788B2AB91E2D00E1BC06 /* SceneDelegate.swift */,
 				ECBA788D2AB91E2D00E1BC06 /* ViewController.swift */,
 				ECBA788F2AB91E2D00E1BC06 /* Main.storyboard */,
+				EC98A3D02AC74E7000CA8CF4 /* EggTimer_alarm_sound.mp3 */,
 				ECBA78922AB91E2F00E1BC06 /* Assets.xcassets */,
 				ECBA78942AB91E2F00E1BC06 /* LaunchScreen.storyboard */,
 				ECBA78972AB91E2F00E1BC06 /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				ECBA78962AB91E2F00E1BC06 /* LaunchScreen.storyboard in Resources */,
 				ECBA78932AB91E2F00E1BC06 /* Assets.xcassets in Resources */,
+				EC98A3D12AC74E7000CA8CF4 /* EggTimer_alarm_sound.mp3 in Resources */,
 				ECBA78912AB91E2D00E1BC06 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
